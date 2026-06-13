@@ -1,0 +1,6 @@
+{
+  "name": "Otomatisasi Balasan Izin Mahasiswa",
+  "description": "Sistem otomatisasi draf balasan formal izin mahasiswa berbasis AI dengan variabel kebijakan yang dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
